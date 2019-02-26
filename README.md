@@ -1,2 +1,2 @@
-# koshogio.github.io
-myFiles
+# კოტე ქურიძე
+ჩემი ფაილები
